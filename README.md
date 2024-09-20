@@ -1,54 +1,80 @@
-<h1>Hi, I'm Abdallah! <br/> <a href="[https://github.com/joshmadakor1](https://github.com/aalsammani)">Data Scientist </a>, 
+# Hi, I'm Abdallah Alsammani!
+**Mathematician**, **Data Scientist**, and **Educator**
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Welcome to my GitHub repository! I have over 20 years of research and teaching experience in mathematical modeling, data science, and machine learning, with applications across various fields such as biology, medicine, ecology, and public health. Below, you will find a selection of my research projects, academic contributions, and code repositories.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## 👨‍💻 Research and Projects
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+### **Mathematical Modeling and Data Science**
+- **Epidemiological Modeling**:
+  - Focused on deterministic and stochastic modeling of infectious diseases, including COVID-19 and Hepatitis B Virus (HBV) infection dynamics.
+  - [Repository: COVID-19 Vaccination Model](https://github.com/abdallahalsammani/covid-vaccination-model)
+  
+- **Optimization in Healthcare**:
+  - Research on optimal control theory and game-theoretic modeling to analyze the dynamics of health interventions and policies.
+  
+- **Hospital Readmission Analysis**:
+  - Data-driven analysis of hospital readmission rates, exploring social determinants of health and predictive modeling techniques.
 
-<h2> 🤳 Connect with me:</h2>
+### **Computational Neuroscience**
+- **Estimation of Circular Statistics**:
+  - Developed methods for estimating circular statistics in the presence of measurement bias in neural data, with applications in epilepsy and sleep studies.
+  - [Repository: Circular Statistics and Neural Data](https://github.com/abdallahalsammani/circular-statistics)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### **Machine Learning Applications**
+- **Prediction Models and Algorithms**:
+  - Focused on data science projects using Python and R for predictive modeling, clustering, and statistical learning algorithms.
+  - [Repository: Data Science Foundations](https://github.com/abdallahalsammani/data-science-foundations)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏅 Honors and Awards
 
-Here are some ideas to get you started:
+- **Grant for Scholarship of Teaching and Learning (SOTL)** (2023 - 2025)
+- **Excellence in Teaching Award** (2019 - 2020)
+- **Pre-PhD Program Scholarship in Mathematics** (2013 - 2014)
+- **Outstanding Undergraduate Student Award** (2004 - 2009)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Publications and Research
+
+### Selected Publications:
+1. **Enhancement of Database Access Performance by Improving Data Consistency in NoSQL Systems**  
+   _Springer Nature Switzerland - Computational Science and Its Applications (ICCSA 2024)_
+   
+2. **Estimation of Circular Statistics in the Presence of Measurement Bias**  
+   _IEEE Journal of Biomedical and Health Informatics (2023)_
+
+3. **Mathematical Analysis of Autonomous and Nonautonomous HBV Transmission Models**  
+   _Springer Nature Switzerland - Computational Science and Its Applications (ICCSA 2023)_
+
+---
+
+## 📘 Teaching and Courses
+
+- **Differential Equations**
+- **Data Science Foundations**
+- **Introduction to Machine Learning**
+- **Statistical Learning**
+- **Linear Algebra**
+- **Probability Theory**
+
+---
+
+## 🛠 Skills
+
+- **Programming Languages**: Python, MATLAB, R, C++
+- **Data Science Tools**: Machine Learning, Deep Learning, Data Visualization, Statistical Analysis
+- **Operating Systems**: Linux, Windows, macOS
+
+---
+
+## 📬 Contact Information
+- Email: [aalsamm@ju.edu](mailto:aalsamm@ju.edu)
+- Phone: +1 (334) 524-1360
+- Location: Jacksonville University, FL, USA
+
+Feel free to explore my repositories and reach out for collaboration on research projects, teaching, or data science consultations!
