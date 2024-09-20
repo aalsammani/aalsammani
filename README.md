@@ -74,7 +74,7 @@ Welcome to my GitHub repository! I have over 20 years of research and teaching e
 
 ## 📬 Contact Information
 - Email: [aalsamm@ju.edu](mailto:aalsamm@ju.edu)
-- Phone: +1 (334) 524-1360
+- Phone: +1 (904) 256-7439
 - Location: Jacksonville University, FL, USA
 
 Feel free to explore my repositories and reach out for collaboration on research projects, teaching, or data science consultations!
