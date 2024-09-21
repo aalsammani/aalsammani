@@ -1,4 +1,4 @@
-# Hi, I'm Abdallah Alsammani 😊
+# Hi, I'm Abdallah Alsammani 🙂
 **Mathematician**, **Data Scientist**, and **Educator**
 
 Welcome! Dr. Abdallah Alsammani is a mathematician and data scientist with over a decade of academic experience. He currently serves as an Assistant Professor of Data Science at Jacksonville University, where he excels in teaching, contributing to undergraduate research, and supporting the university's initiatives. His professional journey includes notable postdoctoral positions at the University of Georgia's Department of Infectious Disease, where he worked on projects related to the CDC, and at the University of Nebraska Medical Center's Department of Neurosurgery, where he focused on computational neuroscience.
