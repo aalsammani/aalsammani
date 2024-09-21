@@ -4,6 +4,23 @@
 Welcome! Dr. Abdallah Alsammani is a mathematician and data scientist with over a decade of academic experience. He currently serves as an Assistant Professor of Data Science at Jacksonville University, where he excels in teaching, contributing to undergraduate research, and supporting the university's initiatives. His professional journey includes notable postdoctoral positions at the University of Georgia's Department of Infectious Disease, where he worked on projects related to the CDC, and at the University of Nebraska Medical Center's Department of Neurosurgery, where he focused on computational neuroscience.
 
 ---
+## Professional Roles
+- **Assistant Professor of Data Science**, _Department of Mathematics, Jacksonville University (2022 - present)_
+- **Postdoctoral Research Associate**, _Department of Infectious Diseases, University of Georgia (2022)_
+- **Postdoctoral Research Associate**, _ Department of Neurosurgery, University of Nebraska Medical Center (2021-2022)_
+- **Graduate Teaching Assistant**, _Department of Mathematics, Auburn University (2014-2020)_
+- **Overseas**
+    - Lecture of math and stat, _Al-Neelain University (2012-2014)_
+    - Lecture of math and stat, _Academy of Engineering Science (2012-2014)_
+    - Lecture of math and stat, _Comboni College of Science and Technology (2012-2014)_
+
+---
+## 🎓 Educations
+- Ph.D. in applied mathematics (mathematical modeling and dynamical systems), _Aubutn University_
+- Pre-Ph.D. Diploma in mathematics (algebraic topology), _International Centre for Theoreitical Physics (ICTP)_
+- M.Sc. in applied mathematics (cryptography), _African Institute for Mathematical Science (AIMS-Senegal)_
+- B.Sc. Honor in mathematics (Optimization), _Al Neelain University_
+
 
 ## 👨‍💻 Research Interest
 
@@ -68,7 +85,7 @@ My research centers on applying computational mathematics, data science, and mac
 9. [**Effect of Sleep Stage on High-Frequency Oscillations and Artifacts**](https://aesnet.org/abstractslisting/effect-of-sleep-stage-on-high-frequency-oscillations-and-artifacts), with Stephen Gliske and William Stacey. _American Epilepsy Society Annual Meeting (2021)_
 ---
 
-## 📘 Teaching Experience
+## 👨🏽‍🏫 Teaching Experience
 My teaching philosophy in applied mathematics, data science, statistics, and machine learning is centered on fostering a deep understanding of theoretical concepts and encouraging their practical application through problem-solving and project-based learning. This approach sharpens students' computational, analytical, and critical thinking skills while promoting creativity. **I also integrate responsible and ethical AI into my curriculum**, emphasizing the importance of ethical considerations and societal impacts, preparing students to be conscientious professionals. With over a decade of experience, I adapt my teaching methods to meet diverse student needs and learning styles, focusing on active engagement to enhance understanding and retention.
 
 ### Courses Taught at Jacksonville University
