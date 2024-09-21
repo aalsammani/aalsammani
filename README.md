@@ -64,8 +64,7 @@ My research centers on applying computational mathematics, data science, and mac
 ## 📚 Slected Publications
 
 <!---### Selected Publications:-->
-1. [**Enhancement of Database Access Performance by Improving Data Consistency in NoSQL Systems**](https://link.springer.com/chapter/10.1007/978-3-031-65223-3_13)  
-   _Springer Nature Switzerland - Computational Science and Its Applications (ICCSA 2024)_
+1. [**Enhancement of Database Access Performance by Improving Data Consistency in NoSQL Systems**](https://link.springer.com/chapter/10.1007/978-3-031-65223-3_13), with Adam A. E. Alflahi and Mohammed A.Y. Mohammed,_Springer Nature Switzerland - Computational Science and Its Applications (ICCSA 2024)_
    
 2. [**Estimation of Circular Statistics in the Presence of Measurement Bias**](https://ieeexplore.ieee.org/document/10335958) with William C Stacey and Stephen V Gliske. 
    _IEEE Journal of Biomedical and Health Informatics (2023)_
