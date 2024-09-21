@@ -21,11 +21,12 @@ Welcome! Dr. Abdallah Alsammani is a mathematician and data scientist with over 
 - M.Sc. in applied mathematics (cryptography), _African Institute for Mathematical Science (AIMS-Senegal)_
 - B.Sc. Honor in mathematics (Optimization), _Al Neelain University_
 
-
+---
 ## 👨‍💻 Research Interest
 
 My research centers on applying computational mathematics, data science, and machine learning across a range of interdisciplinary fields, including systems biology, medicine, ecology, and beyond. Key areas of focus include systems biology, medical imaging and diagnostics, computational neuroscience, epidemiology, public health, environmental science, and ecology. I am passionate about collaborating and driving innovation through research projects that involve developing new algorithms, models, predictive tools, and analytical methods to tackle complex biological, medical, and environmental challenges. I am also open to participating in other multidisciplinary initiatives.
 <!---
+---
 ## 👨‍💻 Research and Projects
 
 ### **Mathematical Modeling and Data Science**
@@ -59,7 +60,7 @@ My research centers on applying computational mathematics, data science, and mac
 - **Outstanding Undergraduate Student Award** (2004 - 2009)
 
 ----->
-
+---
 ## 📚 Slected Publications
 
 <!---### Selected Publications:-->
