@@ -77,7 +77,7 @@ My teaching philosophy in applied mathematics, data science, statistics, and mac
 - Math 270: Introduction to Data Science
 - Math 470: Introduction to Machine Learning
 - Math 478R: Statistical Learning
-- Math 420: Linear Algebra
+- Math 420: Linear Algebra II
 - Math 315: Probability Theory
 - Math 331: Differential Equations
 
@@ -88,7 +88,7 @@ My teaching philosophy in applied mathematics, data science, statistics, and mac
 - MATH 1620 CALCULUS II
 - MATH 2630 CALCULUS III
 - Tutoring
-    - MATH 2650:LINEAR DIFFERENTIAL EQUATIONS
+    - MATH 2650: LINEAR DIFFERENTIAL EQUATIONS
     - MATH 2660: TOPICS IN LINEAR ALGEBRA
     - All the undergraduate math and stat courses
 
