@@ -76,8 +76,8 @@ My research centers on applying computational mathematics, data science, and mac
 
 
 ### Prepprint Publications
-6. [**Coexistence via trophic cascade in plant-herbivore-carnivore systems under intense predation pressure**](https://arxiv.org/pdf/2408.04862). With Mozzamil Mohammed, Mohammed AY Mohammed, Mohamed Bakheet, Cang Hui, and Pietro Landi. _Under review, currenty posted on arXiv (2024)_
-7. [**Stochastic modeling and computational simulations of HBV infection dynamics**](https://arxiv.org/pdf/2308.05819)_arXiv (2023)_
+6. [**Coexistence via trophic cascade in plant-herbivore-carnivore systems under intense predation pressure**](https://arxiv.org/pdf/2408.04862), with Mozzamil Mohammed, Mohammed AY Mohammed, Mohamed Bakheet, Cang Hui, and Pietro Landi. _Under review, currenty posted on arXiv (2024)_
+7. [**Stochastic modeling and computational simulations of HBV infection dynamics**](https://arxiv.org/pdf/2308.05819), _arXiv (2023)_
 
 ### Conferences 
 
