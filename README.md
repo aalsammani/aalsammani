@@ -1,10 +1,14 @@
-# Hi, I'm Abdallah Alsammani!
+# Hi, I'm Abdallah Alsammani 😊
 **Mathematician**, **Data Scientist**, and **Educator**
 
-Welcome to my GitHub repository! I have over 20 years of research and teaching experience in mathematical modeling, data science, and machine learning, with applications across various fields such as biology, medicine, ecology, and public health. Below, you will find a selection of my research projects, academic contributions, and code repositories.
+Welcome! Dr. Abdallah Alsammani is a mathematician and data scientist with over a decade of academic experience. He currently serves as an Assistant Professor of Data Science at Jacksonville University, where he excels in teaching, contributing to undergraduate research, and supporting the university's initiatives. His professional journey includes notable postdoctoral positions at the University of Georgia's Department of Infectious Disease, where he worked on projects related to the CDC, and at the University of Nebraska Medical Center's Department of Neurosurgery, where he focused on computational neuroscience.
 
 ---
 
+## 👨‍💻 Research Interest
+
+My research centers on applying computational mathematics, data science, and machine learning across a range of interdisciplinary fields, including systems biology, medicine, ecology, and beyond. Key areas of focus include systems biology, medical imaging and diagnostics, computational neuroscience, epidemiology, public health, environmental science, and ecology. I am passionate about collaborating and driving innovation through research projects that involve developing new algorithms, models, predictive tools, and analytical methods to tackle complex biological, medical, and environmental challenges. I am also open to participating in other multidisciplinary initiatives.
+<!---
 ## 👨‍💻 Research and Projects
 
 ### **Mathematical Modeling and Data Science**
@@ -37,38 +41,71 @@ Welcome to my GitHub repository! I have over 20 years of research and teaching e
 - **Pre-PhD Program Scholarship in Mathematics** (2013 - 2014)
 - **Outstanding Undergraduate Student Award** (2004 - 2009)
 
----
+----->
 
-## 📚 Publications and Research
+## 📚 Slected Publications
 
-### Selected Publications:
-1. **Enhancement of Database Access Performance by Improving Data Consistency in NoSQL Systems**  
+<!---### Selected Publications:-->
+1. [**Enhancement of Database Access Performance by Improving Data Consistency in NoSQL Systems**](https://link.springer.com/chapter/10.1007/978-3-031-65223-3_13)  
    _Springer Nature Switzerland - Computational Science and Its Applications (ICCSA 2024)_
    
-2. **Estimation of Circular Statistics in the Presence of Measurement Bias**  
+2. [**Estimation of Circular Statistics in the Presence of Measurement Bias**](https://ieeexplore.ieee.org/document/10335958) with William C Stacey and Stephen V Gliske. 
    _IEEE Journal of Biomedical and Health Informatics (2023)_
 
-3. **Mathematical Analysis of Autonomous and Nonautonomous HBV Transmission Models**  
+3. [**Mathematical Analysis of Autonomous and Nonautonomous HBV Transmission Models**](https://link.springer.com/chapter/10.1007/978-3-031-37108-0_21)  
    _Springer Nature Switzerland - Computational Science and Its Applications (ICCSA 2023)_
 
+4. [**Stability analysis of a chemotherapy model with delays**](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2019002?viewType=html) with Abdulrashid, Ismail, and Xiaoying Han._Discrete and Continuous Dynamical Systems-B (2019)_
+
+
+### Prepprint Publications
+6. [**Coexistence via trophic cascade in plant-herbivore-carnivore systems under intense predation pressure**](https://arxiv.org/pdf/2408.04862). With Mozzamil Mohammed, Mohammed AY Mohammed, Mohamed Bakheet, Cang Hui, and Pietro Landi. _Under review, currenty posted on arXiv (2024)_
+7. [**Stochastic modeling and computational simulations of HBV infection dynamics**](https://arxiv.org/pdf/2308.05819)_arXiv (2023)_
+
+### Conferences 
+
+8. [**THE IMPACT OF INTRACRANIAL EEG ON SLEEP IS INDEPENDENT OF WHETHER A CRANIOTOMY WAS PERFORMED**](https://academic.oup.com/sleep/article/45/Supplement_1/A255/6592954?searchresult=1), with Kevin Tyner, Garnett Hegeman, William Stacey, Stephen Gliske. _SLEEP Conference (2022)_
+9. [**Effect of Sleep Stage on High-Frequency Oscillations and Artifacts**](https://aesnet.org/abstractslisting/effect-of-sleep-stage-on-high-frequency-oscillations-and-artifacts), with Stephen Gliske and William Stacey. _American Epilepsy Society Annual Meeting (2021)_
 ---
 
-## 📘 Teaching and Courses
+## 📘 Teaching Experience
+My teaching philosophy in applied mathematics, data science, statistics, and machine learning is centered on fostering a deep understanding of theoretical concepts and encouraging their practical application through problem-solving and project-based learning. This approach sharpens students' computational, analytical, and critical thinking skills while promoting creativity. **I also integrate responsible and ethical AI into my curriculum**, emphasizing the importance of ethical considerations and societal impacts, preparing students to be conscientious professionals. With over a decade of experience, I adapt my teaching methods to meet diverse student needs and learning styles, focusing on active engagement to enhance understanding and retention.
 
-- **Differential Equations**
-- **Data Science Foundations**
-- **Introduction to Machine Learning**
-- **Statistical Learning**
-- **Linear Algebra**
-- **Probability Theory**
+### Courses Taught at Jacksonville University
+
+- Math 170: Data Science Foundations
+- Math 270: Introduction to Data Science
+- Math 470: Introduction to Machine Learning
+- Math 478R: Statistical Learning
+- Math 420: Linear Algebra
+- Math 315: Probability Theory
+- Math 331: Differential Equations
+
+### Courses Taught at Auburn University
+- MATH 1000: COLLEGE ALGEBRA
+- MATH 1150: PRE-CALCULUS ALGEBRA AND TRIGONOMETRY
+- MATH 1610: CALCULUS I
+- MATH 1620 CALCULUS II
+- MATH 2630 CALCULUS III
+- Tutoring
+    - MATH 2650:LINEAR DIFFERENTIAL EQUATIONS
+    - MATH 2660: TOPICS IN LINEAR ALGEBRA
+    - All the undergraduate math and stat courses
 
 ---
 
 ## 🛠 Skills
-
-- **Programming Languages**: Python, MATLAB, R, C++
-- **Data Science Tools**: Machine Learning, Deep Learning, Data Visualization, Statistical Analysis
-- **Operating Systems**: Linux, Windows, macOS
+### Programming Languages
+- Python
+- R
+- MATLAB
+- C++
+- SAS
+- JAVA
+### Operating Systems
+- Linux
+- Windows
+- macOS
 
 ---
 
