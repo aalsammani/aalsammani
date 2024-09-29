@@ -7,7 +7,7 @@ Welcome! Dr. Abdallah Alsammani is a mathematician and data scientist with over 
 ## Professional Roles
 - **Assistant Professor of Data Science**, _Department of Mathematics, Jacksonville University (2022 - present)_
 - **Postdoctoral Research Associate**, _Department of Infectious Diseases, University of Georgia (2022)_
-- **Postdoctoral Research Associate**, _ Department of Neurosurgery, University of Nebraska Medical Center (2021-2022)_
+- **Postdoctoral Research Associate**, _Department of Neurosurgery, University of Nebraska Medical Center (2021-2022)_
 - **Graduate Teaching Assistant**, _Department of Mathematics, Auburn University (2014-2020)_
 - **Overseas**
     - Lecture of math and stat, _Al-Neelain University (2012-2014)_
