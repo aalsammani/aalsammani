@@ -92,7 +92,7 @@ My teaching philosophy in applied mathematics, data science, statistics, and mac
 
 - Math 170: Data Science Foundations
 - Math 270: Introduction to Data Science
-- Math 470: Introduction to Machine Learning
+- Math 470: Machine Learning Algorithms
 - Math 478R: Statistical Learning
 - Math 420: Linear Algebra II
 - Math 315: Probability Theory
