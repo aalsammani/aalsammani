@@ -75,7 +75,7 @@ My research centers on applying computational mathematics, data science, and mac
 4. [**Stability analysis of a chemotherapy model with delays**](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2019002?viewType=html) with Abdulrashid, Ismail, and Xiaoying Han._Discrete and Continuous Dynamical Systems-B (2019)_
 
 
-### Prepprint Publications
+### Preprint Publications
 6. [**Coexistence via trophic cascade in plant-herbivore-carnivore systems under intense predation pressure**](https://arxiv.org/pdf/2408.04862), with Mozzamil Mohammed, Mohammed AY Mohammed, Mohamed Bakheet, Cang Hui, and Pietro Landi. _Under review, currenty posted on arXiv (2024)_
 7. [**Stochastic modeling and computational simulations of HBV infection dynamics**](https://arxiv.org/pdf/2308.05819), _arXiv (2023)_
 
