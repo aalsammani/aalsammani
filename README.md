@@ -90,10 +90,10 @@ My teaching philosophy in applied mathematics, data science, statistics, and mac
 
 ### Courses Taught at Jacksonville University
 
-- Math 170: Data Science Foundations
-- Math 270: Introduction to Data Science
 - Math 470: Machine Learning Algorithms
 - Math 478R: Statistical Learning
+- Math 170: Data Science Foundations
+- Math 270: Introduction to Data Science
 - Math 420: Linear Algebra II
 - Math 315: Probability Theory
 - Math 331: Differential Equations
