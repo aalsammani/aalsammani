@@ -1,8 +1,8 @@
 # Hello, I'm Abdallah Alsammani 👋
 
-[![Data Science](https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/abdallahalsammani)
-[![Mathematics](https://img.shields.io/badge/Mathematics-009688?style=for-the-badge&logo=wolfram&logoColor=white)](https://github.com/abdallahalsammani)
-[![Educator](https://img.shields.io/badge/Educator-FFA000?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/abdallahalsammani)
+[![Data Science](https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/aalsammani)
+[![Mathematics](https://img.shields.io/badge/Mathematics-009688?style=for-the-badge&logo=wolfram&logoColor=white)](https://github.com/aalsammani)
+[![Educator](https://img.shields.io/badge/Educator-FFA000?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/aalsammani)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="500">
@@ -56,9 +56,12 @@ Assistant Professor of Data Science at Jacksonville University with expertise in
 ## GitHub Stats 📈
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdallahalsammani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahalsammani&theme=tokyonight"/>
+  <!-- Replace these with actual screenshots of your stats or remove if causing issues -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aalsammani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aalsammani&theme=tokyonight"/>
 </div>
+
+<!-- Note: If GitHub stats widgets don't display correctly, you can remove them -->
 
 ## Connect With Me 🌐
 
