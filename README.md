@@ -10,7 +10,7 @@
 
 ## About Me 🚀
 
-Assistant Professor of Data Science at Jacksonville University with expertise in computational mathematics and machine learning. I apply mathematical modeling to solve real-world problems in healthcare, biology, and beyond.
+I am an Assistant Professor of Mathematics & Data Science at Delaware State University with expertise in applied mathematics, statistics, and machine learning. I apply mathematical and statistical modeling to solve real-world problems in healthcare, biology, and beyond.
 
 > **"Mathematical models allow us to see patterns invisible to the naked eye."**
 
