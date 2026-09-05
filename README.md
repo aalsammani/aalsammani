@@ -1,79 +1,42 @@
-# Hello, I'm Abdallah Alsammani 👋
+# Abdallah Alsammani, Ph.D.
 
-[![Data Science](https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/aalsammani)
-[![Mathematics](https://img.shields.io/badge/Mathematics-009688?style=for-the-badge&logo=wolfram&logoColor=white)](https://github.com/aalsammani)
-[![Educator](https://img.shields.io/badge/Educator-FFA000?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/aalsammani)
+**Assistant Professor of Mathematics and Data Science**
+Department of Mathematical Sciences · Delaware State University
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="500">
-</p>
+[![Website](https://img.shields.io/badge/Website-aalsammani.github.io-1B3A4B?style=flat-square)](https://aalsammani.github.io/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4340--4550-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4340-4550)
+[![Email](https://img.shields.io/badge/Email-aalsammani%40desu.edu-2980B0?style=flat-square)](mailto:aalsammani@desu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdallah--alsammani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-alsammani/)
 
-## About Me 🚀
+I am an applied mathematician and data scientist. My research develops mathematically rigorous computational methods for biological, clinical, and public-health systems: dynamical-systems models of infectious disease, scientific machine learning that couples mechanistic models with data, interpretable clinical prediction, and statistical methods for intracranial EEG.
 
-I am an Assistant Professor of Mathematics & Data Science at Delaware State University with expertise in applied mathematics, statistics, and machine learning. I apply mathematical and statistical modeling to solve real-world problems in healthcare, biology, and beyond.
+**Mathematical & Scientific Machine Learning for Biomedical Systems**
 
-> **"Mathematical models allow us to see patterns invisible to the naked eye."**
+## Research
 
-<a href="https://aalsammani.github.io/"><img align="right" width="150" src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=safari&logoColor=white" /></a>
+| | Area | Topics |
+|---|---|---|
+| 01 | **Mathematical Modeling** | ODE, SDE, and delay systems · stability and bifurcation · optimal control · fractional calculus · host–pathogen and epidemic models |
+| 02 | **Scientific Machine Learning** | neural differential equations · hybrid mechanistic–statistical models · structural identifiability · uncertainty quantification |
+| 03 | **Biomedical Data Science** | interpretable and calibrated clinical prediction · EHR data · circular statistics and bias correction |
+| 04 | **Computational Neuroscience** | intracranial EEG · high-frequency oscillations in epilepsy · sleep and vigilance state |
 
-## What I Do 💡
+## Selected Publications
 
-- 📊 **Data Analysis & Visualization**
-- 🧮 **Mathematical & Statistical Modeling**
-- 🧠 **Machine Learning Algorithms**
-- 🔬 **Computational Neuroscience**
-- 🦠 **Epidemiological Modeling**
+- Chen, Z., Gliske, S. V., **Alsammani, A.**, et al. (2026). The influence of recording duration and vigilance state on high-frequency oscillation characterization in epilepsy. *Neurology*, 107(2), e218225. [DOI](https://doi.org/10.1212/WNL.0000000000218225)
+- Yousif, M. H., **Alsammani, A.**, et al. (2026). Interpretable machine-learning prognosis of mycetoma from routine clinical data. *Transactions of the Royal Society of Tropical Medicine and Hygiene*, trag061. [DOI](https://doi.org/10.1093/trstmh/trag061)
+- **Alsammani, A.**, Ngonghala, C. N., & Martcheva, M. (2025). Impact of vaccination behavior on COVID-19 dynamics and economic outcomes. *Mathematical Biosciences and Engineering*, 22(9), 2300–2338. [DOI](https://doi.org/10.3934/mbe.2025084)
+- **Alsammani, A.**, Stacey, W. C., & Gliske, S. V. Estimation of circular statistics in the presence of measurement bias. *IEEE Journal of Biomedical and Health Informatics*, 28(2), 1089–1100. [DOI](https://doi.org/10.1109/JBHI.2023.3334684)
+- **Alsammani, A.** (2026). A tutorial on symbolic structural identifiability analysis of ODE models in Julia. Preprint. [arXiv:2605.18910](https://arxiv.org/abs/2605.18910)
+- **Alsammani, A.**, Johnson, M., & Elrefaei, J. (2026). Calibrated and interpretable machine learning for ICU mortality prediction using first 24-hour clinical data. Preprint. [medRxiv](https://www.medrxiv.org/content/10.64898/2026.05.30.26354524v1)
 
-## Code & Tools 🛠️
+Full list: [aalsammani.github.io/publications.html](https://aalsammani.github.io/publications.html)
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-</p>
+## Tools
 
-## Current Projects 🔭
+Python (NumPy, SciPy, pandas, scikit-learn, TensorFlow/Keras) · R · Julia · MATLAB · Mathematica · SAS · C++ · SQL · LaTeX
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>Computational Neuroscience</b><br>
-      Estimating circular statistics in neural data with applications in epilepsy research
-    </td>
-    <td align="center" width="50%">
-      <b>Epidemiological Models</b><br>
-      Stochastic modeling of disease dynamics with policy optimization
-    </td>
-  </tr>
-</table>
+## Students and Collaboration
 
-## GitHub Stats 📈
-
-<div align="center">
-  <!-- Replace these with actual screenshots of your stats or remove if causing issues -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aalsammani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aalsammani&theme=tokyonight"/>
-</div>
-
-<!-- Note: If GitHub stats widgets don't display correctly, you can remove them -->
-
-## Connect With Me 🌐
-
-<p align="center">
-  <a href="https://aalsammani.github.io/"><img src="https://img.shields.io/badge/Personal_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="mailto:aalsamm@ju.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdallah-alsammani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>Open to collaborations in mathematical modeling and data science applications!</i>
-</p>
+I mentor graduate and undergraduate researchers in mathematical modeling, scientific machine learning, and biomedical data science, and I welcome collaborators in public health, medicine, and neuroscience.
+[Research group](https://aalsammani.github.io/group.html) · [Contact](https://aalsammani.github.io/contact.html)
